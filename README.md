@@ -3,6 +3,6 @@
 A Basic Flutter application focusing on a portfolio app.
 
 Future Update :
---> Adding Resume 
---> Adding Acheivements
+1.Adding Resume 
+2.Adding Acheivements
  
